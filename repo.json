@@ -1,0 +1,22 @@
+{
+  "name": "StreamPlay Modified",
+  "description": "Modified StreamPlay extension with 6 premium sources only",
+  "manifestVersion": 1,
+  "pluginLists": [
+    {
+      "name": "StreamPlay-6Sources",
+      "description": "Fast StreamPlay with only 6 premium sources",
+      "internalName": "StreamPlay",
+      "url": "https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases/latest/download/StreamPlay-debug.apk",
+      "authors": ["Phisher98", "Modified"],
+      "version": 1,
+      "iconUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/StreamPlay/icon.png",
+      "apiVersion": 1,
+      "repositoryUrl": "https://github.com/YOUR_USERNAME/YOUR_REPO_NAME",
+      "fileSize": 500000,
+      "status": 1,
+      "language": "en",
+      "adult": false
+    }
+  ]
+} 
